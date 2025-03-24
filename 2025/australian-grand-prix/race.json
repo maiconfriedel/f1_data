@@ -1,0 +1,202 @@
+[
+  {
+    "Position":"1",
+    "DriverNumber":"4",
+    "Driver":"Lando Norris",
+    "Constructor":"McLaren",
+    "TimeOrRetired":"1:42:06.304",
+    "Grid":"1st",
+    "Laps":"57",
+    "Points":"25"
+  },
+  {
+    "Position":"2",
+    "DriverNumber":"1",
+    "Driver":"Max Verstappen",
+    "Constructor":"Red Bull",
+    "TimeOrRetired":"+0.895",
+    "Grid":"3rd",
+    "Laps":"57",
+    "Points":"18"
+  },
+  {
+    "Position":"3",
+    "DriverNumber":"63",
+    "Driver":"George Russell",
+    "Constructor":"Mercedes",
+    "TimeOrRetired":"+8.481",
+    "Grid":"4th",
+    "Laps":"57",
+    "Points":"15"
+  },
+  {
+    "Position":"4",
+    "DriverNumber":"12",
+    "Driver":"Andrea Kimi Antonelli",
+    "Constructor":"Mercedes",
+    "TimeOrRetired":"+10.135",
+    "Grid":"16th",
+    "Laps":"57",
+    "Points":"12"
+  },
+  {
+    "Position":"5",
+    "DriverNumber":"23",
+    "Driver":"Alexander Albon",
+    "Constructor":"Williams",
+    "TimeOrRetired":"+12.773",
+    "Grid":"6th",
+    "Laps":"57",
+    "Points":"10"
+  },
+  {
+    "Position":"6",
+    "DriverNumber":"18",
+    "Driver":"Lance Stroll",
+    "Constructor":"Aston Martin",
+    "TimeOrRetired":"+17.413",
+    "Grid":"13th",
+    "Laps":"57",
+    "Points":"8"
+  },
+  {
+    "Position":"7",
+    "DriverNumber":"27",
+    "Driver":"Nico Hülkenberg",
+    "Constructor":"Kick Sauber",
+    "TimeOrRetired":"+18.423",
+    "Grid":"17th",
+    "Laps":"57",
+    "Points":"6"
+  },
+  {
+    "Position":"8",
+    "DriverNumber":"16",
+    "Driver":"Charles Leclerc",
+    "Constructor":"Ferrari",
+    "TimeOrRetired":"+19.826",
+    "Grid":"7th",
+    "Laps":"57",
+    "Points":"4"
+  },
+  {
+    "Position":"9",
+    "DriverNumber":"81",
+    "Driver":"Oscar Piastri",
+    "Constructor":"McLaren",
+    "TimeOrRetired":"+20.448",
+    "Grid":"2nd",
+    "Laps":"57",
+    "Points":"2"
+  },
+  {
+    "Position":"10",
+    "DriverNumber":"44",
+    "Driver":"Lewis Hamilton",
+    "Constructor":"Ferrari",
+    "TimeOrRetired":"+22.473",
+    "Grid":"8th",
+    "Laps":"57",
+    "Points":"1"
+  },
+  {
+    "Position":"11",
+    "DriverNumber":"10",
+    "Driver":"Pierre Gasly",
+    "Constructor":"Alpine",
+    "TimeOrRetired":"+26.502",
+    "Grid":"9th",
+    "Laps":"57",
+    "Points":""
+  },
+  {
+    "Position":"12",
+    "DriverNumber":"22",
+    "Driver":"Yuki Tsunoda",
+    "Constructor":"RB",
+    "TimeOrRetired":"+29.884",
+    "Grid":"5th",
+    "Laps":"57",
+    "Points":""
+  },
+  {
+    "Position":"13",
+    "DriverNumber":"31",
+    "Driver":"Esteban Ocon",
+    "Constructor":"Haas",
+    "TimeOrRetired":"+33.161",
+    "Grid":"19th",
+    "Laps":"57",
+    "Points":""
+  },
+  {
+    "Position":"14",
+    "DriverNumber":"87",
+    "Driver":"Oliver Bearman",
+    "Constructor":"Haas",
+    "TimeOrRetired":"+40.351",
+    "Grid":"PL",
+    "Laps":"57",
+    "Points":""
+  },
+  {
+    "Position":"DNF",
+    "DriverNumber":"30",
+    "Driver":"Liam Lawson",
+    "Constructor":"Red Bull",
+    "TimeOrRetired":"Accident",
+    "Grid":"PL",
+    "Laps":"46",
+    "Points":""
+  },
+  {
+    "Position":"DNF",
+    "DriverNumber":"5",
+    "Driver":"Gabriel Bortoleto",
+    "Constructor":"Kick Sauber",
+    "TimeOrRetired":"Accident",
+    "Grid":"15th",
+    "Laps":"45",
+    "Points":""
+  },
+  {
+    "Position":"DNF",
+    "DriverNumber":"14",
+    "Driver":"Fernando Alonso",
+    "Constructor":"Aston Martin",
+    "TimeOrRetired":"Accident",
+    "Grid":"12th",
+    "Laps":"32",
+    "Points":""
+  },
+  {
+    "Position":"DNF",
+    "DriverNumber":"55",
+    "Driver":"Carlos Sainz Jr.",
+    "Constructor":"Williams",
+    "TimeOrRetired":"Accident",
+    "Grid":"10th",
+    "Laps":"0",
+    "Points":""
+  },
+  {
+    "Position":"DNF",
+    "DriverNumber":"7",
+    "Driver":"Jack Doohan",
+    "Constructor":"Alpine",
+    "TimeOrRetired":"Accident",
+    "Grid":"14th",
+    "Laps":"0",
+    "Points":""
+  },
+  {
+    "Position":"DNS",
+    "DriverNumber":"6",
+    "Driver":"Isack Hadjar",
+    "Constructor":"RB",
+    "TimeOrRetired":"Accident on formation lap",
+    "Grid":"11th",
+    "Laps":"0",
+    "Points":""
+  }
+]

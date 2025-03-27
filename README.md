@@ -55,6 +55,9 @@ Each JSON file contains structured information regarding the specific session. T
   - `Laps`: Total number of laps completed.
   - `Points`: Points awarded based on finishing position.
 
+## 🔄 Data Updates
+Race data is updated every **Monday** after the race weekend, ensuring all session results and statistics have been computed and finalized.
+
 ## 🚀 Usage
 You can use this dataset for:
 - Data analysis and visualization.
